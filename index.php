@@ -1,4 +1,4 @@
-<?php file_put_contents("log.txt", date("F j, Y, g:i a") . "\n" . $_SERVER['REMOTE_ADDR'] . "\n" . $_SERVER['HTTP_USER_AGENT'] . "\n" .$_SERVER['REQUEST_URI'] . "\n\n", FILE_APPEND); ?>
+<?php file_put_contents("log.txt", date("F j, Y, g:i a") . "\n" . $_SERVER['REMOTE_ADDR'] . "\n" . $_SERVER['HTTP_USER_AGENT'] . "\n" . $_SERVER['REQUEST_URI'] . "\n" . $_SERVER['HTTP_REFERER'] . "\n\n", FILE_APPEND); ?>
 <!doctype html>
 <html class="no-js" lang="en">
 <head>
