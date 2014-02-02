@@ -12,7 +12,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
   <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700italic,700' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" media="screen" href="styles.css">
+  <link rel="stylesheet" media="all" href="styles.css">
   
   <!-- Modernizr on top to enable old browsers to render HTML5 markup -->
   <script src="modernizr.custom.15550.js"></script>
@@ -38,6 +38,25 @@
         <h1>Summary</h1>
         <p>Experienced and motivated developer and student with excellent interpersonal skills, organization, and work ethic. Looking for an engaging <b>internship for Fall 2014</b> to work on impactful projects.</p>
     </section> -->
+
+    <section id="education">
+        <h1>Education</h1>
+        <div style="float: left;">
+            <p>
+            <b>Georgia Institute of Technology</b><br>
+            Candidate for B.S. in Computer Science<br>
+            Anticipated Graduation: May, 2016<br>
+            Cumulative GPA: 4.0/4.0<br>
+            </p>
+        </div>
+        <div style="float: left; margin: 0px 90px;" >
+            <p>
+            <b>MOOCs (MIT OCW, Coursera)</b><br>
+            Cryptography I<br>Malicious Software and its Underground Econ...<br>Introduction to Algorithms
+            </p>
+        </div>
+        <div id="clear"></div>
+    </section>
 
     <section id="hobbies">
         <h1>Personal Projects</h1>
@@ -108,7 +127,7 @@
                 - Organized weekly meetings and gave presentations on security-related topics<br>
             </p>            
         </article>
-        <!-- <article>
+<!--         <article>
             <h1><a href="https://www.hackgt.com" title="">Hack at Tech</a> <span>Atlanta, GA</span></h1>
             <h2>Director</h2>
             <span class="start">Fall 2013</span>
@@ -120,32 +139,13 @@
         <article>
             <h1><a href="http://cc.gatech.edu" title="Georgia Tech">Georgia Institute of Technology</a> <span>Atlanta, GA</span></h1>
             <h2>Teaching Assistant (CS 2050, Intro to Discrete Math)</h2>
-            <!-- <span class="start">Fall 2013</span> -->
-            <span class="end">Fall 2013</span>
+            <span class="start">Fall 2013</span>
+            <span class="end">Present</span>
             <p>
                 <!-- <i>TA for CS 2050, Intro to Discrete Math for Comp Sci</i><br> -->
                 - Co-taught weekly recitation classes of ~50 students and held office hours
             </p>            
         </article>
-    </section>
-
-    <section id="education">
-        <h1>Education</h1>
-        <div style="float: left;">
-            <p>
-            <b>Georgia Institute of Technology</b><br>
-            Candidate for B.S. in Computer Science<br>
-            Anticipated Graduation: May, 2016<br>
-            Cumulative GPA: 4.0/4.0<br>
-            </p>
-        </div>
-        <div style="float: left; margin: 0px 90px;" >
-            <p>
-            <b>MOOCs (MIT OCW, Coursera)</b><br>
-            Cryptography I<br>Malicious Software and its Underground Econ...<br>Introduction to Algorithms
-            </p>
-        </div>
-        <div id="clear"></div>
     </section>
 
     <section id="skills">
