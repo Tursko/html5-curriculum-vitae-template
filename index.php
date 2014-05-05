@@ -45,7 +45,7 @@
             <p>
             <b>Georgia Institute of Technology</b><br>
             Candidate for B.S. in Computer Science<br>
-            Anticipated Graduation: May, 2016<br>
+            Anticipated Graduation: December, 2015<br>
             Cumulative GPA: 4.0/4.0<br>
             </p>
         </div>
@@ -61,10 +61,9 @@
     <section id="hobbies">
         <h1>Personal Projects</h1>
         <ul>
-            <li><a href="http://www.ericzhang.me/faking-views-on-twitch-tv/">Reverse Engineering Twitch.TV's Viewer Counter</a> (Writeup) - A method to fake thousands of viewers on Twitch/Justin TV, popular live streaming sites.</li>
-            <li><a href="http://www.ericzhang.me/projects/spotify-ad-blocker-ezblocker/">EZBlocker</a> (.NET) - A utility that blocks advertisements in the Spotify music player with over 2000 active users.</li>
+            <li><a href="http://www.ericzhang.me/projects/spotify-ad-blocker-ezblocker/">EZBlocker</a> (.NET) - A utility that blocks advertisements in the Spotify music player with over 75k MAU.</li>
             <li><a href="http://www.ericzhang.me/projects/chromelogger/">ChromeLogger</a> (Javascript, AngularJS) - A keylogger built as a Google Chrome extension with a log viewer built in AngularJS & Bootstrap.</li>
-            <li><a href="http://www.ericzhang.me/cracking-adobe-air-applications/">Cracking Adobe Air Apps</a> (Writeup) - A tutorial on modifying compiled Adobe Air applications.</li>
+            <li>Writeups: <a href="http://www.ericzhang.me/cracking-adobe-air-applications/">Cracking Adobe Air Apps</a>, <a href="http://www.ericzhang.me/faking-views-on-twitch-tv/">Reverse Engineering Twitch.TV's Viewer Counter</a></li>
             <!-- <li><a href="https://github.com/Xeroday/Commander">Commander</a> (AngularJS, PHP, MySQL) - A C&C server designed to be rapidly deployed and highly compatible with any host.</li> -->
             <!-- <li>Various Android applications (Java, PHP, MySQL) - I built the networking components of Android applications using a LAMP stack for other GT students.</li> -->
             <li>More at <a href="https://www.github.com/Xeroday">Github.com/Xeroday</a></li>
@@ -82,6 +81,15 @@
             </p>            
         </article>
         <article>
+            <h1><a href="http://cc.gatech.edu" title="Georgia Tech">Georgia Institute of Technology</a> <span>Atlanta, GA</span></h1>
+            <h2>Teaching Assistant (CS 2050, Intro to Discrete Math)</h2>
+            <span class="start">Fall 2013</span>
+            <span class="end">Present</span>
+            <p>
+                - Co-taught weekly recitation classes of ~50 students and held office hours
+            </p>            
+        </article>
+        <article>
             <h1><a href="http://www.sharewave.com" title="Sharewave">Sharewave</a> <span>New York, NY</span></h1>
             <h2>Software Engineer, Intern</h2>
             <span class="end">Summer 2013</span>
@@ -92,7 +100,7 @@
                 - Created a server farm platform for document transcoding using C# (w/ MS Interops) and Python.
             </p>            
         </article>
-        <article>
+<!--         <article>
             <h1><a href="http://www.uchc.edu" title="UCHC">UConn Health Center</a> <span>Farmington, CT</span></h1>
             <h2>Software Development & Research Intern</h2>
             <span class="end">Summer 2012</span>
@@ -104,14 +112,14 @@
         </article>
         <article>
             <h1>Freelance Web Development</a></h1>
-            <!-- <h2>Web developer</h2> -->
+            <h2>Web developer</h2>
             <span class="start">Summer 2010</span>
             <span class="end">Summer 2011</span>
             <p>
                 - Created an internal management database for SolarYouth.org (2011).<br>
                 - Designed and developed CMS for CastCT.org (2010).<br>
             </p>            
-        </article>
+        </article> -->
     </section>
 
         <section id="extracurriculars" class="experience">
@@ -127,23 +135,13 @@
                 - Organized weekly meetings and gave presentations on security-related topics<br>
             </p>            
         </article>
-<!--         <article>
+        <article>
             <h1><a href="https://www.hackgt.com" title="">Hack at Tech</a> <span>Atlanta, GA</span></h1>
             <h2>Director</h2>
             <span class="start">Fall 2013</span>
             <span class="end">Present</span>
             <p>
                 - Plan and organize hackathons for Georgia Tech (3 Day Startup & HackGT)
-            </p>            
-        </article> -->
-        <article>
-            <h1><a href="http://cc.gatech.edu" title="Georgia Tech">Georgia Institute of Technology</a> <span>Atlanta, GA</span></h1>
-            <h2>Teaching Assistant (CS 2050, Intro to Discrete Math)</h2>
-            <span class="start">Fall 2013</span>
-            <span class="end">Present</span>
-            <p>
-                <!-- <i>TA for CS 2050, Intro to Discrete Math for Comp Sci</i><br> -->
-                - Co-taught weekly recitation classes of ~50 students and held office hours
             </p>            
         </article>
     </section>
@@ -172,7 +170,7 @@
     </section>
 
     <div style="float:right; padding-right:50px; font-size: 70%;">
-        Last updated 12/26/2013
+        Last updated 5/5/2014
     </div>
 
     <!-- Script for enabling media queries on IE5+ -->
