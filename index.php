@@ -170,7 +170,7 @@
     </section>
 
     <div style="float:right; padding-right:50px; font-size: 70%;">
-        Last updated 5/5/2014
+        Last updated 2/20/2018
     </div>
 
     <!-- Script for enabling media queries on IE5+ -->
