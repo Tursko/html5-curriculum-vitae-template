@@ -4,16 +4,16 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  
-  <title>Eric Zhang - Resume</title>
-  
-  <meta name="description" content="Resume of Eric Zhang, Georgia Tech">
-  <meta name="author" content="Eric Zhang">
+
+  <title>Taylor Riley - Resume</title>
+
+  <meta name="description" content="Resume of Taylor Riley, UTSA">
+  <meta name="author" content="Taylor Riley">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  
+
   <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700italic,700' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" media="all" href="styles.css">
-  
+
   <!-- Modernizr on top to enable old browsers to render HTML5 markup -->
   <script src="modernizr.custom.15550.js"></script>
 
@@ -28,8 +28,8 @@
     <header class="vcard">
     	<h1 class="fn" style="float: left; cursor: pointer;"><a onclick="document.location.href='http://www.ericzhang.me'">Eric Zhang</a></h1>
     	<ul class="contact">
-        	<li class="email">ericjzhang@gatech.edu</li>
-            <li class="url"><a href="http://www.ericzhang.me" title="Eric Zhang Website">www.ericzhang.me</a></li>
+        	<li class="email">taylor@stykocompany.com</li>
+            <li class="url"><a href="http://www.taylorriley.me" title="Taylor Riley Website">www.taylorriley.me</a></li>
             <li class="tel">(203) 715-7725</li>
 		</ul>
     </header>
@@ -69,7 +69,7 @@
             <li>More at <a href="https://www.github.com/Xeroday">Github.com/Xeroday</a></li>
         </ul>
     </section>
-    
+
     <section id="work" class="experience">
         <h1>Work Experience</h1>
         <article>
@@ -78,7 +78,7 @@
             <span class="end">Summer 2014</span>
             <p>
                 <i>Salesforce.com is an enterprise cloud computing company best known for its CRM platform.</i><br>
-            </p>            
+            </p>
         </article>
         <article>
             <h1><a href="http://cc.gatech.edu" title="Georgia Tech">Georgia Institute of Technology</a> <span>Atlanta, GA</span></h1>
@@ -87,7 +87,7 @@
             <span class="end">Present</span>
             <p>
                 - Co-taught weekly recitation classes of ~50 students and held office hours
-            </p>            
+            </p>
         </article>
         <article>
             <h1><a href="http://www.sharewave.com" title="Sharewave">Sharewave</a> <span>New York, NY</span></h1>
@@ -98,7 +98,7 @@
                 - Designed and built core functionality for the MVP, such as designing database tables, creating user account management, etc.<br>
                 - Wrote PostgreSQL stored procedures using PL/pgSQL and used AngularJS to create front-end app pages.<br>
                 - Created a server farm platform for document transcoding using C# (w/ MS Interops) and Python.
-            </p>            
+            </p>
         </article>
 <!--         <article>
             <h1><a href="http://www.uchc.edu" title="UCHC">UConn Health Center</a> <span>Farmington, CT</span></h1>
@@ -108,7 +108,7 @@
                 <i>The UCHC intern team focused on the topic of adolecent substance abuse.</i><br>
                 - Built Android mobile applications and HTML mobile web apps.<br>
                 - Conducted research for a publication presented at the 2012 Summit on the Science of Eliminating Health Disparities in Washington DC.
-            </p>            
+            </p>
         </article>
         <article>
             <h1>Freelance Web Development</a></h1>
@@ -118,7 +118,7 @@
             <p>
                 - Created an internal management database for SolarYouth.org (2011).<br>
                 - Designed and developed CMS for CastCT.org (2010).<br>
-            </p>            
+            </p>
         </article> -->
     </section>
 
@@ -133,7 +133,7 @@
                 <i>Grey Hat is a community where students can learn offensive and defensive information security.</i><br>
                 - Competed in CTF competitions with the MadHatters team<br>
                 - Organized weekly meetings and gave presentations on security-related topics<br>
-            </p>            
+            </p>
         </article>
         <article>
             <h1><a href="https://www.hackgt.com" title="">Hack at Tech</a> <span>Atlanta, GA</span></h1>
@@ -142,7 +142,7 @@
             <span class="end">Present</span>
             <p>
                 - Plan and organize hackathons for Georgia Tech (3 Day Startup & HackGT)
-            </p>            
+            </p>
         </article>
     </section>
 
@@ -159,7 +159,7 @@
             <dd>Javascript (AngularJS, JQuery)</dd>
             <dd>PHP</dd>
             <dd>HTML/CSS</dd>
-            
+
             <dt><!-- Technologies --></dt>
             <dd>Git</dd>
             <dd>Unix Command-line</dd>
