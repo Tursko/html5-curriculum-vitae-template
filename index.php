@@ -34,39 +34,36 @@
 		</ul>
     </header>
 
-	<!-- <section id="summary">
+	<section id="summary">
         <h1>Summary</h1>
         <p>Experienced and motivated developer and student with excellent interpersonal skills, organization, and work ethic. Looking for an engaging <b>internship for Fall 2014</b> to work on impactful projects.</p>
-    </section> -->
+    </section> 
 
     <section id="education">
         <h1>Education</h1>
         <div style="float: left;">
             <p>
-            <b>Georgia Institute of Technology</b><br>
+            <b>University of Texas at San Antonio</b><br>
             Candidate for B.S. in Computer Science<br>
-            Anticipated Graduation: December, 2015<br>
-            Cumulative GPA: 4.0/4.0<br>
+            Anticipated Graduation: Fall, 2020<br>
+            Cumulative GPA: 3.5/4.0<br>
             </p>
         </div>
-        <div style="float: left; margin: 0px 90px;" >
+        <!-- <div style="float: left; margin: 0px 90px;" >
             <p>
             <b>MOOCs (MIT OCW, Coursera)</b><br>
             Cryptography I<br>Malicious Software and its Underground Econ...<br>Introduction to Algorithms
             </p>
         </div>
         <div id="clear"></div>
-    </section>
+    </section> -->
 
     <section id="hobbies">
         <h1>Personal Projects</h1>
         <ul>
-            <li><a href="http://www.ericzhang.me/projects/spotify-ad-blocker-ezblocker/">EZBlocker</a> (.NET) - A utility that blocks advertisements in the Spotify music player with over 75k MAU.</li>
-            <li><a href="http://www.ericzhang.me/projects/chromelogger/">ChromeLogger</a> (Javascript, AngularJS) - A keylogger built as a Google Chrome extension with a log viewer built in AngularJS & Bootstrap.</li>
-            <li>Writeups: <a href="http://www.ericzhang.me/cracking-adobe-air-applications/">Cracking Adobe Air Apps</a>, <a href="http://www.ericzhang.me/faking-views-on-twitch-tv/">Reverse Engineering Twitch.TV's Viewer Counter</a></li>
-            <!-- <li><a href="https://github.com/Xeroday/Commander">Commander</a> (AngularJS, PHP, MySQL) - A C&C server designed to be rapidly deployed and highly compatible with any host.</li> -->
-            <!-- <li>Various Android applications (Java, PHP, MySQL) - I built the networking components of Android applications using a LAMP stack for other GT students.</li> -->
-            <li>More at <a href="https://www.github.com/Xeroday">Github.com/Xeroday</a></li>
+            <li><a href="http://www.ericzhang.me/projects/spotify-ad-blocker-ezblocker/">Turcrypt</a> (Java) - A tool for encrypting and decrptying yayaya</li>
+            <li><a href="http://www.ericzhang.me/projects/chromelogger/">Binder</a> (Java) - A keylogger built as a Google Chrome extension with a log viewer built in AngularJS & Bootstrap.</li>
+            <li>More at <a href="https://www.github.com/Tursko">Github.com/Tursko</a></li>
         </ul>
     </section>
 
@@ -100,26 +97,7 @@
                 - Created a server farm platform for document transcoding using C# (w/ MS Interops) and Python.
             </p>
         </article>
-<!--         <article>
-            <h1><a href="http://www.uchc.edu" title="UCHC">UConn Health Center</a> <span>Farmington, CT</span></h1>
-            <h2>Software Development & Research Intern</h2>
-            <span class="end">Summer 2012</span>
-            <p>
-                <i>The UCHC intern team focused on the topic of adolecent substance abuse.</i><br>
-                - Built Android mobile applications and HTML mobile web apps.<br>
-                - Conducted research for a publication presented at the 2012 Summit on the Science of Eliminating Health Disparities in Washington DC.
-            </p>
-        </article>
-        <article>
-            <h1>Freelance Web Development</a></h1>
-            <h2>Web developer</h2>
-            <span class="start">Summer 2010</span>
-            <span class="end">Summer 2011</span>
-            <p>
-                - Created an internal management database for SolarYouth.org (2011).<br>
-                - Designed and developed CMS for CastCT.org (2010).<br>
-            </p>
-        </article> -->
+
     </section>
 
         <section id="extracurriculars" class="experience">
@@ -150,27 +128,23 @@
     	<h1>Skills</h1>
         <dl>
             <dt><!-- Programming --></dt>
-            <dd>Java (incl. Android)</dd>
-            <dd>Python</dd>
-            <dd>.NET (C#, VB)</dd>
+            <dd>Java</dd>
+            <dd>C</dd>
 
             <!-- <dt>Web Development</dt> -->
-            <dd>SQL (PostgreSQL, MySQL)</dd>
-            <dd>Javascript (AngularJS, JQuery)</dd>
-            <dd>PHP</dd>
             <dd>HTML/CSS</dd>
 
             <dt><!-- Technologies --></dt>
             <dd>Git</dd>
             <dd>Unix Command-line</dd>
-            <dd>AWS (EC2, S3, SES, SNS, SQS)</dd>
-            <dd>Linux, OS X, Windows</dd>
-            <dd>Unit Testing</dd>
+            <dd>SED, GREP, AWK</dd>
+            <dd>Bash</dd>
+            <dd>Linux, Windows</dd>
         </dl>
     </section>
 
     <div style="float:right; padding-right:50px; font-size: 70%;">
-        Last updated 2/20/2018
+        Last updated 4/2/2018
     </div>
 
     <!-- Script for enabling media queries on IE5+ -->
